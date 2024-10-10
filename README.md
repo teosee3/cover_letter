@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Teosee3&fontSize=90" />
 
 <!-- 기술 스택 섹션 제목 가운데 정렬 -->
-<h3 align="center" style="color: blue; font-family: Arial, sans-serif;"> 🚀 SKILL STACK 🛸</h3>
+<h3 align="center" style="color: blue; font-family: Arial, sans-serif;"> 🚀 SKILL STACK 🚀</h3>
 <!-- 기술 스택 아이콘들 가운데 정렬 -->
 <div align="center">
   <!-- C 아이콘 -->
@@ -17,7 +17,7 @@
 <br>
 
 <!-- 공부중인 기술 섹션 제목 가운데 정렬 -->
-<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">📝 LEARNING 🌐</h3>
+<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">📝 LEARNING 📝</h3>
 <!-- 공부중인 기술 아이콘들 가운데 정렬 -->
 <div align="center">
   <!-- MySQL 아이콘 -->
@@ -31,7 +31,7 @@
 <br>
 
 <!-- 도구 섹션 제목 가운데 정렬 -->
-<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">🪒 TOOL 🚀</h3>
+<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">🛸 TOOL 🛸</h3>
 <!-- 도구 아이콘들 가운데 정렬 -->
 <div align="center">
   <!-- Git 아이콘 -->
@@ -55,7 +55,7 @@
 <br>
 
 <!-- 연락처 섹션 제목 가운데 정렬 -->
-<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">🔎 CONTACT 🛰️</h3>
+<h3 align="center" style="color: blue; font-family: Arial, sans-serif;">🛰️ CONTACT 🛰️</h3>
 <!-- 연락처 아이콘들 가운데 정렬 -->
 <div align="center">
   <!-- 블로그 아이콘 -->
@@ -75,7 +75,5 @@
 
 <!-- 센스 있는 gif 추가 -->
 <div align="center"> 
-![TechTechnologyGIF](https://github.com/user-attachments/assets/6bda7835-eb89-469b-8fb0-7992d82a12a5)
-
   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Coding GIF" width="500" />
 </div>
