@@ -1,8 +1,10 @@
-<!-- 페이지 상단의 캡슐형 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Teosee3&fontSize=90&fontColor=FFFFFF&textAlign=center&borderRadius=10" style="border-radius: 10px;"/>
+<!-- 페이지 상단의 모던한 헤더 이미지 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Welcome%20to%20Teosee3's%20Profile&fontSize=70&fontColor=FFFFFF&textAlign=center&borderRadius=10" style="border-radius: 10px;"/>
 
 <!-- 기술 스택 섹션 제목 -->
-<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">🌈 SKILLS 🌈</h3>
+<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">
+  <img src="https://img.icons8.com/ios-filled/50/007BFF/tech-support.png" width="30" /> 🌈 SKILLS 🌈
+</h3>
 <!-- 기술 스택 아이콘들 가운데 정렬 -->
 <div align="center">
   <img src="https://img.shields.io/badge/C-FF5733.svg?style=for-the-badge&logo=c&logoColor=FFFFFF" />&nbsp
@@ -13,7 +15,9 @@
 <br>
 
 <!-- 공부중인 기술 섹션 제목 -->
-<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">💫 LEARNING 💫</h3>
+<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">
+  <img src="https://img.icons8.com/ios-filled/50/007BFF/book.png" width="30" /> 💫 LEARNING 💫
+</h3>
 <!-- 공부중인 기술 아이콘들 가운데 정렬 -->
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-FF5733.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp
@@ -24,7 +28,9 @@
 <br>
 
 <!-- 도구 섹션 제목 -->
-<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">🪒 TOOLS 🪒</h3>
+<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">
+  <img src="https://img.icons8.com/ios-filled/50/007BFF/tools.png" width="30" /> 🪒 TOOLS 🪒
+</h3>
 <!-- 도구 아이콘들 가운데 정렬 -->
 <div align="center">
   <a href="https://github.com/teosee3?tab=repositories">
@@ -41,7 +47,9 @@
 <br>
 
 <!-- 연락처 섹션 제목 -->
-<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">💌 CONTACT 💌</h3>
+<h3 align="center" style="color: #007BFF; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 1px;">
+  <img src="https://img.icons8.com/ios-filled/50/007BFF/email-open.png" width="30" /> 💌 CONTACT 💌
+</h3>
 <!-- 연락처 아이콘들 가운데 정렬 -->
 <div align="center">
   <a href="https://teosee3.tistory.com/">
@@ -56,7 +64,7 @@
 </div>
 <br>
 
-<!-- 프로그래밍 관련 GIF 추가 -->
+<!-- 전문적인 프로그래밍 GIF 추가 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26uf6gq0zD4jhmx9S/giphy.gif" alt="Programming GIF" width="500" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/3o7buirY5C7V6dOsqA/giphy.gif" alt="Programming GIF" width="500" style="border-radius: 10px;" />
 </div>
